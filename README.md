@@ -1,5 +1,4 @@
-OpenStreetMap Project - README
-# OpenStreetMap Pathfinding Project
+# OpenStreetMap Pathfinder
 This repository contains the implementation of the A* search algorithm as part of the Udacity C++ Nanodegree. The project demonstrates how to find the shortest path between two points on a map using OpenStreetMap data.
 ## Project Files
 1. **main.cpp**:
